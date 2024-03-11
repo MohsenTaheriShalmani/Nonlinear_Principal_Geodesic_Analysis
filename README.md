@@ -11,7 +11,7 @@ Implementation of Non-linear Principal Geodesic Analysis (NLPGA).
 [Uploading Statistical_Shape_Analysis_of_Brain_Structures.pdf…]()
 
 
-### Cite:
+### Cite
 ```
 @mastersthesis{taheri2020statistical,
   title={Statistical Shape Analysis of Brain Structures},
