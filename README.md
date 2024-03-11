@@ -1,7 +1,8 @@
 This repository adheres to the publication mentioned below.
 
 ## Publication
-### "Taheri Shalmani, Mohsen. Statistical Shape Analysis of Brain Structures. MS thesis. University of Stavanger, Norway, 2020."
+### "Statistical Shape Analysis of Brain Structures."
+### Taheri Shalmani, Mohsen, MS thesis. University of Stavanger, Norway, 2020. 
 
 ### Links 
 [https://hdl.handle.net/11250/2680212]
