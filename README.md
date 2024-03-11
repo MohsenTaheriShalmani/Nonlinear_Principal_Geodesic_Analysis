@@ -18,8 +18,6 @@ Cite:
   school={University of Stavanger, Norway}
 }
 
-
-![NLPGA](https://github.com/MohsenTaheriShalmani/Nonlinear_Principal_Geodesic_Analysis/assets/19237855/6a70589c-2b08-4ecb-9e3b-f621ee91382c)
-
-![CurveFitting_By_Rotation](https://github.com/MohsenTaheriShalmani/Nonlinear_Principal_Geodesic_Analysis/assets/19237855/3534d51a-1fa3-4639-9f8c-9737164cc5bc)
+![NLPGA](https://github.com/MohsenTaheriShalmani/Nonlinear_Principal_Geodesic_Analysis/assets/19237855/f18d7a2f-7340-45ea-8b60-b64d18bbb4c9)
+![CurveFitting_By_Rotation](https://github.com/MohsenTaheriShalmani/Nonlinear_Principal_Geodesic_Analysis/assets/19237855/b1bff4c0-de72-449f-8592-51e17215d4b3)
 
