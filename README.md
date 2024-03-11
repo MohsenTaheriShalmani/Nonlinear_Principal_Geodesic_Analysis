@@ -1,10 +1,12 @@
+This repository adheres to the publication mentioned below.
+"Taheri Shalmani, Mohsen. Statistical Shape Analysis of Brain Structures. MS thesis. University of Stavanger, Norway, 2020."
+
+[https://hdl.handle.net/11250/2680212]
+
 Implementation of Non-linear Principal Geodesic Analysis (NLPGA).
 
 [Uploading Statistical_Shape_Analysis_of_Brain_Structures.pdf…]()
 
-
-The code adheres to the publication mentioned below.
-"Taheri Shalmani, Mohsen. Statistical Shape Analysis of Brain Structures. MS thesis. University of Stavanger, Norway, 2020."
 
 Cite:
 
