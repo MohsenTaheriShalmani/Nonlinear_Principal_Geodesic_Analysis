@@ -14,3 +14,6 @@ Cite:
   year={2020},
   school={University of Stavanger, Norway}
 }
+
+
+![NLPGA](https://github.com/MohsenTaheriShalmani/Nonlinear_Principal_Geodesic_Analysis/assets/19237855/6a70589c-2b08-4ecb-9e3b-f621ee91382c)
